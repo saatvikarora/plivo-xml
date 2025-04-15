@@ -1,6 +1,5 @@
 <Response>
-  <Speak>Routing to Echo</Speak>
   <Dial>
-    <Sip>sip:echo@bandwidth.com</Sip>
+    <Sip>sip:91.99.59.49:5060</Sip>
   </Dial>
 </Response>
