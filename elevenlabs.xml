@@ -1,7 +1,6 @@
 <Response>
-  <Speak>Testing SIP routing</Speak>
+  <Speak>Routing to Echo</Speak>
   <Dial>
-    <Sip>sip:echo@sipjs.onsip.com</Sip>
+    <Sip>sip:echo@bandwidth.com</Sip>
   </Dial>
 </Response>
-
