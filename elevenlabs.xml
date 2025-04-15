@@ -1,5 +1,7 @@
 <Response>
+  <Speak>Testing SIP routing</Speak>
   <Dial>
-    <Sip>sip:91.99.59.49:5060</Sip>
+    <Sip>sip:echo@sipjs.onsip.com</Sip>
   </Dial>
 </Response>
+
