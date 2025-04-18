@@ -1,5 +1,7 @@
 <Response>
-  <Dial>
-    <Sip>sip:saatvic@saatvic.sip.twilio.com</Sip>
-  </Dial>
+    <Stream content-type="audio/x-mulaw;rate=8000"
+            url="wss://91.99.59.49/stream"
+            bidirectional="true"
+            audioTrack="inbound"
+            keepCallAlive="true" />
 </Response>
